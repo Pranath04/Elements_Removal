@@ -13,3 +13,11 @@ A = [2, 1]
 Input 2:
 
 A = [5]
+Example Output
+
+Output 1:
+
+4
+Output 2:
+
+5
